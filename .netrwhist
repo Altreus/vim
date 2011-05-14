@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/altreus/code/Pod-Cats'
+let g:netrw_dirhist_2='/home/altreus/code/Pod-Cats-Podcats/lib/Pod/Cats'
+let g:netrw_dirhist_3='/home/altreus/code/Text-Balanced-Simple/lib/Text/Balanced'
+let g:netrw_dirhist_4='/home/altreus/code/Pod-Cats/t'
+let g:netrw_dirhist_5='/home/altreus/code/Pod-Cats/lib/Pod/Cats/Parser'
+let g:netrw_dirhist_6='/home/altreus/code/Pod-Cats-Podcats'
